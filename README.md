@@ -1,1 +1,2 @@
-# eventsapp_12_16_Course
+# eventsappstart
+This is a simple events app
